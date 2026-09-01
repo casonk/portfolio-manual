@@ -1,0 +1,5 @@
+@startuml
+title Public catalog
+[repositories.json] --> [README.md]
+[repositories.json] --> [check_catalog.py]
+@enduml

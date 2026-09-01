@@ -1,0 +1,203 @@
+{
+  "repositories": [
+    {
+      "category": "Control plane & agents",
+      "name": ".github",
+      "slug": "casonk/.github",
+      "url": "https://github.com/casonk/.github"
+    },
+    {
+      "category": "Academic & personal",
+      "name": "Certifications",
+      "slug": "casonk/Certifications",
+      "url": "https://github.com/casonk/Certifications"
+    },
+    {
+      "category": "Academic & personal",
+      "name": "Flint_River_Ecology",
+      "slug": "casonk/Flint_River_Ecology",
+      "url": "https://github.com/casonk/Flint_River_Ecology"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "archility",
+      "slug": "casonk/archility",
+      "url": "https://github.com/casonk/archility"
+    },
+    {
+      "category": "Security & secrets",
+      "name": "auto-pass",
+      "slug": "casonk/auto-pass",
+      "url": "https://github.com/casonk/auto-pass"
+    },
+    {
+      "category": "Research & analytics",
+      "name": "bit-byte-block",
+      "slug": "casonk/bit-byte-block",
+      "url": "https://github.com/casonk/bit-byte-block"
+    },
+    {
+      "category": "Academic & personal",
+      "name": "casonk.github.io",
+      "slug": "casonk/casonk.github.io",
+      "url": "https://github.com/casonk/casonk.github.io"
+    },
+    {
+      "category": "Research & analytics",
+      "name": "citegres",
+      "slug": "casonk/citegres",
+      "url": "https://github.com/casonk/citegres"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "clockwork",
+      "slug": "casonk/clockwork",
+      "url": "https://github.com/casonk/clockwork"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "crew-chief",
+      "slug": "casonk/crew-chief",
+      "url": "https://github.com/casonk/crew-chief"
+    },
+    {
+      "category": "Academic & personal",
+      "name": "drawio-templates",
+      "slug": "casonk/drawio-templates",
+      "url": "https://github.com/casonk/drawio-templates"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "dyno-lab",
+      "slug": "casonk/dyno-lab",
+      "url": "https://github.com/casonk/dyno-lab"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "fedora-debugg",
+      "slug": "casonk/fedora-debugg",
+      "url": "https://github.com/casonk/fedora-debugg"
+    },
+    {
+      "category": "Data & finance",
+      "name": "fred-public-data",
+      "slug": "casonk/fred-public-data",
+      "url": "https://github.com/casonk/fred-public-data"
+    },
+    {
+      "category": "Data & finance",
+      "name": "intake",
+      "slug": "casonk/intake",
+      "url": "https://github.com/casonk/intake"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "magneto",
+      "slug": "casonk/magneto",
+      "url": "https://github.com/casonk/magneto"
+    },
+    {
+      "category": "Security & secrets",
+      "name": "my-consent",
+      "slug": "casonk/my-consent",
+      "url": "https://github.com/casonk/my-consent"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "nordility",
+      "slug": "casonk/nordility",
+      "url": "https://github.com/casonk/nordility"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "pit-box",
+      "slug": "casonk/pit-box",
+      "url": "https://github.com/casonk/pit-box"
+    },
+    {
+      "category": "Research & analytics",
+      "name": "pushshift_python",
+      "slug": "casonk/pushshift_python",
+      "url": "https://github.com/casonk/pushshift_python"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "session-control",
+      "slug": "casonk/session-control",
+      "url": "https://github.com/casonk/session-control"
+    },
+    {
+      "category": "Messaging & integration",
+      "name": "shock-relay",
+      "slug": "casonk/shock-relay",
+      "url": "https://github.com/casonk/shock-relay"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "short-circuit",
+      "slug": "casonk/short-circuit",
+      "url": "https://github.com/casonk/short-circuit"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "snowbridge",
+      "slug": "casonk/snowbridge",
+      "url": "https://github.com/casonk/snowbridge"
+    },
+    {
+      "category": "Research & analytics",
+      "name": "sonetsim",
+      "slug": "casonk/sonetsim",
+      "url": "https://github.com/casonk/sonetsim"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "tachometer",
+      "slug": "casonk/tachometer",
+      "url": "https://github.com/casonk/tachometer"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "terminility",
+      "slug": "casonk/terminility",
+      "url": "https://github.com/casonk/terminility"
+    },
+    {
+      "category": "Control plane & agents",
+      "name": "traction-control",
+      "slug": "casonk/traction-control",
+      "url": "https://github.com/casonk/traction-control"
+    },
+    {
+      "category": "Data & finance",
+      "name": "tradility",
+      "slug": "casonk/tradility",
+      "url": "https://github.com/casonk/tradility"
+    },
+    {
+      "category": "Academic & personal",
+      "name": "university-coursework",
+      "slug": "casonk/university-coursework",
+      "url": "https://github.com/casonk/university-coursework"
+    },
+    {
+      "category": "Research & analytics",
+      "name": "windshield",
+      "slug": "casonk/windshield",
+      "url": "https://github.com/casonk/windshield"
+    },
+    {
+      "category": "Home lab & networking",
+      "name": "wiring-harness",
+      "slug": "casonk/wiring-harness",
+      "url": "https://github.com/casonk/wiring-harness"
+    },
+    {
+      "category": "Data & finance",
+      "name": "zillow-public-data",
+      "slug": "casonk/zillow-public-data",
+      "url": "https://github.com/casonk/zillow-public-data"
+    }
+  ],
+  "schema_version": 1
+}
