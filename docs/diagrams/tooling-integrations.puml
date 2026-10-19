@@ -1,0 +1,15 @@
+@startuml
+title portfolio-manual Tooling Integrations
+left to right direction
+skinparam shadowing false
+skinparam defaultFontName Monospace
+skinparam componentStyle rectangle
+skinparam linetype ortho
+rectangle ".github/workflows/ci.yml\n1 detected tool" as source_github_workflows_ci_yml #E0F2FE
+cloud "casonk/.github/.github/workflows/python-ci.yml" as tool_casonk_github_github_workflows_python_ci_yml #FEF3C7
+source_github_workflows_ci_yml --> tool_casonk_github_github_workflows_python_ci_yml
+note as toolingGraphSummary
+Scanned 1 tooling entrypoint.
+Detected 1 third-party tool.
+end note
+@enduml
