@@ -1,23 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
 <mxfile host="app.diagrams.net">
   <diagram id="repo-architecture" name="Public catalog">
     <mxGraphModel grid="1" gridSize="10" page="1" pageWidth="640" pageHeight="320">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
         <mxCell id="catalog" value="repositories.json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="160" height="60" as="geometry"/>
+          <mxGeometry x="40" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="readme" value="README.md" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="160" height="60" as="geometry"/>
+          <mxGeometry x="400" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="checker" value="check_catalog.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="160" height="60" as="geometry"/>
+          <mxGeometry x="400" y="180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="to-readme" style="endArrow=classic;html=1;" edge="1" parent="1" source="catalog" target="readme">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="to-readme" style="endArrow=classic;html=1;jumpStyle=arc;jumpSize=10;" edge="1" parent="1" source="catalog" target="readme">
+          <mxGeometry relative="1" as="geometry" archilityManagedRoute="1">
+            <Array as="points">
+              <mxPoint x="224" y="160" />
+              <mxPoint x="224" y="150" />
+              <mxPoint x="376" y="150" />
+              <mxPoint x="376" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="to-checker" style="endArrow=classic;html=1;" edge="1" parent="1" source="catalog" target="checker">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="to-checker" style="endArrow=classic;html=1;jumpStyle=arc;jumpSize=10;" edge="1" parent="1" source="catalog" target="checker">
+          <mxGeometry relative="1" as="geometry" archilityManagedRoute="1">
+            <Array as="points">
+              <mxPoint x="224" y="140" />
+              <mxPoint x="224" y="210" />
+              <mxPoint x="376" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
