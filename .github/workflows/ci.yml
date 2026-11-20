@@ -10,6 +10,6 @@ jobs:
   ci:
     uses: casonk/.github/.github/workflows/python-ci.yml@main
     with:
-      python-versions: '["3.12"]'
+      python-versions: auto-edges
       skip-install: true
       run-pytest: true
